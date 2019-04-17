@@ -1,0 +1,14 @@
+.container {
+  text-align: center;
+  font-family: system-ui;
+}
+
+.pizzas {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.pizza {
+  padding: 10px;
+}
